@@ -10,7 +10,7 @@ highlight zshHereDocSync        ctermfg=137
 highlight zshNumber             ctermfg=033 ctermbg=none cterm=italicbold
 highlight zshParentheses        ctermfg=225
 highlight zshRedir              ctermfg=051 ctermbg=none cterm=bold
-highlight zshStringDelimiter    ctermfg=202 ctermbg=none cterm=italic
+highlight zshStringDelimiter    ctermfg=202 ctermbg=none cterm=none
 highlight zshSubst              ctermfg=131 ctermbg=234 cterm=italicbold
 highlight zshSubstDelim         ctermfg=125 ctermbg=none cterm=italicbold
 
